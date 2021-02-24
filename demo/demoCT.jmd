@@ -1,0 +1,18 @@
+---
+title: Computational Thinking Course Following
+author: Aaron Kaw
+---
+
+```julia; cache = true
+include("../src/ComputationalThinking.jl")
+using .ComputationalThinking
+```
+
+# Images in Julia
+```
+philip = load("../images/philip.jpg")
+```
+
+## Blur
+## Sharpen
+## Edge Detection
